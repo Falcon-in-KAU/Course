@@ -32,12 +32,16 @@
 #####1
 ![accel1](https://www.dropbox.com/s/4n7540poaihf0nt/accel1.png?dl=1)
 #####2
-![accel1](https://www.dropbox.com/s/xrkp1na0x34cjuh/accel2.png?dl=1)
+![accel2](https://www.dropbox.com/s/xrkp1na0x34cjuh/accel2.png?dl=1)
+#####3
+![accel3](https://www.dropbox.com/s/sjuudr0aj2wsde9/accel3.png?dl=)
 
 ####자이로 센서
 #####1
 ![gyro1](https://www.dropbox.com/s/6hrrrznbipzym4x/gyro1.png?dl=1)
 #####2
-![gyro1](https://www.dropbox.com/s/ljmmbpbl9oq8p2l/gyro2.png?dl=1)
+![gyro2](https://www.dropbox.com/s/ljmmbpbl9oq8p2l/gyro2.png?dl=1)
 
+####센서 융합
+![comlementary](https://www.dropbox.com/s/eva0s83ud6i4onc/accel4.png?dl=1)
 
