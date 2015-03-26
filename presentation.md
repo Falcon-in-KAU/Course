@@ -34,7 +34,7 @@
 #####2
 ![accel2](https://www.dropbox.com/s/xrkp1na0x34cjuh/accel2.png?dl=1)
 #####3
-![accel3](https://www.dropbox.com/s/sjuudr0aj2wsde9/accel3.png?dl=)
+![accel3](https://www.dropbox.com/s/sjuudr0aj2wsde9/accel3.png?dl=1)
 
 ####자이로 센서
 #####1
